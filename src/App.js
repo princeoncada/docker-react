@@ -9,13 +9,16 @@ function App() {
                 <p>
                     what the fuck? Prince Oncada
                 </p>
+                <p>
+                    Additional Text Learner
+                </p>
                 <a
                     className="App-link"
                     href="https://reactjs.org"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    I was changed in the Feature branch
+                    Learn React
                 </a>
             </header>
         </div>
