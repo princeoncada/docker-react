@@ -9,6 +9,9 @@ function App() {
                 <p>
                     what the fuck? Prince Oncada
                 </p>
+                <p>
+                    Additional Text Learner
+                </p>
                 <a
                     className="App-link"
                     href="https://reactjs.org"
